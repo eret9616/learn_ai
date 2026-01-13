@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "预习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "预习 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "预习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "预习 的出链列表"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "预习2.md",
+                "file": "预习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "预习2 的大纲"
+              "title": "预习 的大纲"
             }
           },
           {
@@ -192,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f32a3ef2d3ddbeb7",
+  "active": "6b052902cdaaecf2",
   "lastOpenFiles": [
     "预习2.md",
     "未命名.base",
