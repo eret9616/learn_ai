@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "预习 的大纲"
             }
+          },
+          {
+            "id": "f32a3ef2d3ddbeb7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +190,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f640662e7e583232",
+  "active": "f32a3ef2d3ddbeb7",
   "lastOpenFiles": [
     "预习.md"
   ]
