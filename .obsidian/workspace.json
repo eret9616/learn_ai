@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "预习"
             }
+          },
+          {
+            "id": "83868c5bfdbadbc6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,17 +197,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b052902cdaaecf2",
+  "active": "83868c5bfdbadbc6",
   "lastOpenFiles": [
     "Pasted image 20260113233945.png",
     "预习2.md",
