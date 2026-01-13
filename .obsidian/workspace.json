@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "预习"
             }
-          },
-          {
-            "id": "83868c5bfdbadbc6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,8 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83868c5bfdbadbc6",
+  "active": "6b052902cdaaecf2",
   "lastOpenFiles": [
+    "assets/预习/file-20260113234926757.png",
+    "assets/预习",
+    "assets/- 预习",
+    "assets/预习/file-20260113234755379.png",
+    "assets",
     "Pasted image 20260113233945.png",
     "预习2.md",
     "未命名.base",
