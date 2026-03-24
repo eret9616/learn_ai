@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "（尚硅谷）未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "（尚硅谷）未命名"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "（尚硅谷）未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "（尚硅谷）未命名 的大纲"
             }
           },
           {
@@ -196,19 +196,21 @@
   },
   "active": "171114238be105a4",
   "lastOpenFiles": [
+    "assets/(zhibo）预习",
+    "(zhibo）预习.md",
+    "assets/(shan预习",
+    "（尚硅谷）未命名.md",
     "未命名.base",
-    "未命名.md",
-    "预习.md",
     "未命名 1.base",
     "未命名 2.base",
     "未命名 3.base",
-    "assets/预习/file-20260114134838821.jpg",
-    "assets/预习/file-20260114133636919.jpg",
-    "assets/预习/file-20260114001715790.jpg",
-    "assets/预习/file-20260113234926757.png",
+    "assets/(zhibo）预习/file-20260114134838821.jpg",
+    "assets/(zhibo）预习/file-20260114133636919.jpg",
+    "assets/(zhibo）预习/file-20260114001715790.jpg",
+    "assets/(zhibo）预习/file-20260113234926757.png",
     "assets/预习",
     "assets/- 预习",
-    "assets/预习/file-20260113234755379.png",
+    "assets/(zhibo）预习/file-20260113234755379.png",
     "assets",
     "Pasted image 20260113233945.png",
     "预习2.md"

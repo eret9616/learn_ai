@@ -5,12 +5,12 @@
 ''' ''' """ """ # 这三种
 ## print输出
 按住ctrl并点击print可以查看源代码，里面有一些参数可以使用
-	![300](assets/预习/file-20260113234926757.png)
+	![300](assets/(shan预习/file-20260113234926757.png)
 接下来可以传参数，比如传sep或者end可以修改输出内容
-	![300](assets/预习/file-20260113234755379.png)
+	![300](assets/(shan预习/file-20260113234755379.png)
 ## input输入
 input()得到str字类型,如果输入数字,则需要使用int()或float()来转换,type()可以查看类型
-	 ![300x242](assets/预习/file-20260114001715790.jpg)
+	 ![300x242](assets/(shan预习/file-20260114001715790.jpg)
 ## 变量
 ```python
 a=1
@@ -61,10 +61,10 @@ print('大家好，我是%s，我今年%d，我的年薪%.4f亿'%(name,age,salar
 print('大家好，我是%s'%name) #一个时候不用加括号了
 ```
 ### 花括号占位符（了解）
-![300x111](assets/预习/file-20260114133636919.jpg)
+![300x111](assets/(shan预习/file-20260114133636919.jpg)
 ```python
 print('大家好，我是{}，我今年{}，我的年薪{}亿'.format(name,age,salary))
 print('大家好，我是{a}，我今年{b}，我的年薪{c}亿'.format(a=name,b=age,c=salary))
 ```
-![500](assets/预习/file-20260114134838821.jpg)
+![500](assets/(shan预习/file-20260114134838821.jpg)
 ## Python数据类型
